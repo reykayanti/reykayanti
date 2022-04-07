@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hallo! Im 👋
+
+Hi, I'm Eka. I'm interested in code and art✨. I like to solve problems that exist in daily activities. It made me a little more savvy about how to decode.
 
 <!--
 **reykayanti/reykayanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
