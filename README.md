@@ -7,5 +7,5 @@ Hi, I'm Eka. I'm interested in code and art. I like to solve problems that exist
 - 🌱 I’m currently learning Web Programming
 - 💬 Ask me about ask me about anything i can help
 - 📫 How to reach me: <a href="mailto:retnoekayanti15@gmail.com"> My Gmail </a>
-- ⚡ Fun fact: I don't like spicy food. if you want to give me food, please don't spicy😄
+- ⚡ Fun fact: I don't like spicy food. if you want to give me some food, please don't spicy😄
 
