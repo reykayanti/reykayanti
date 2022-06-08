@@ -1,6 +1,6 @@
-### Hallo! Im 👋
+###  
 
-Hi, I'm Eka. I'm interested in code and art. I like to solve problems that exist in daily activities. It made me a little more savvy about how to decode.
+Hi, I'm Eka👋. I'm interested in code and art. I like to solve problems that exist in daily activities. It made me a little more savvy about how to decode.
 
 
 - 🔭 I’m currently internship on Asia Cyber University 
